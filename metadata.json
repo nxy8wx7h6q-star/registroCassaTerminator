@@ -1,0 +1,7 @@
+{
+  "name": "Panetteria Pro - Smart POS",
+  "description": "A professional bakery cash register system with advanced product management, multi-VAT support, complex payment handling, and AI-powered insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
