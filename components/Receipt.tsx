@@ -17,7 +17,7 @@ export const Receipt: React.FC<ReceiptProps> = ({ sale }) => {
       </div>
 
       <div className="text-center mb-4">
-        <h2 className="text-sm font-black uppercase tracking-tighter border-b-2 border-stone-900 pb-1 mb-2">Panetteria Pro</h2>
+        <h2 className="text-sm font-black uppercase tracking-tighter border-b-2 border-stone-900 pb-1 mb-2">ECFOP BAKERY</h2>
         <p className="font-bold">S.M.A.R.T. POS SYSTEM</p>
         <p>Via delle Farine, 12 - 00100 ROMA</p>
         <p>P.IVA: IT 01234567890</p>

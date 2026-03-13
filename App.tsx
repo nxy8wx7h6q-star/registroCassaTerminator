@@ -310,7 +310,7 @@ const App: React.FC = () => {
           <div className="w-24 h-24 bg-amber-100 rounded-[2rem] flex items-center justify-center mx-auto mb-8 text-amber-600 shadow-inner">
             <ShoppingBag size={48} />
           </div>
-          <h1 className="text-3xl font-black mb-2 text-stone-800 tracking-tighter">Panetteria Pro</h1>
+          <h1 className="text-3xl font-black mb-2 text-stone-800 tracking-tighter">ECFOP BAKERY</h1>
           <p className="text-stone-400 mb-10 font-medium">Seleziona il tuo profilo per iniziare</p>
           <div className="space-y-4">
             {operators.map(op => (
